@@ -1,5 +1,5 @@
-function CarSearch() {
-  return <div>CarSearch</div>;
+function CarValue() {
+  return <div>CarValue</div>;
 }
 
-export default CarSearch;
+export default CarValue;
